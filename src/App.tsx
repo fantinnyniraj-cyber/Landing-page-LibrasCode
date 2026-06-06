@@ -182,7 +182,7 @@ export default function App() {
             <div className="bg-white/10 backdrop-blur-md p-6 rounded-xl border border-white/20">
               <Mail className="h-8 w-8 mx-auto mb-4 text-[#0cc0df]" />
               <h3 className="font-bold text-lg mb-2">Email</h3>
-              <p className="text-blue-50">fantinnyniraj@gmail.com</p>
+              <p className="text-blue-50">librascode@gmail.com</p>
             </div>
 
             {/* Card Telefone/WhatsApp */}
